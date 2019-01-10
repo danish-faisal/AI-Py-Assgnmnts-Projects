@@ -1,1 +1,1 @@
-# AI-Py-Assgnmnts-Projects
+# AI-Py-Assgnmnts
