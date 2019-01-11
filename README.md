@@ -1,1 +1,1 @@
-# AI-Py-Assgnmnts
+# AI-Py-Assgnments
